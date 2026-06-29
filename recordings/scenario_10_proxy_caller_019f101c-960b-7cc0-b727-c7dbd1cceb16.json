@@ -1,0 +1,15 @@
+{
+  "call_id": "019f101c-960b-7cc0-b727-c7dbd1cceb16",
+  "scenario_id": "scenario_01_baseline_scheduling_confirmation",
+  "scenario_title": "Baseline scheduling with confirmation completeness",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f101c-960b-7cc0-b727-c7dbd1cceb16-1782681898195-f0ca0c27-fae5-4ae6-b269-f780ddcaa6d9-mono.wav",
+  "local_audio_file": "recordings/scenario_01_baseline_scheduling_confirmation_019f101c-960b-7cc0-b727-c7dbd1cceb16.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:22:24.353Z",
+  "end_timestamp": "2026-06-28T21:24:55.659Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:25:01.218916+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

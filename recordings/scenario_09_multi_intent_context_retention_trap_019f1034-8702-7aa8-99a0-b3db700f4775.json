@@ -1,0 +1,15 @@
+{
+  "call_id": "019f1034-8702-7aa8-99a0-b3db700f4775",
+  "scenario_id": "scenario_09_multi_intent_context_retention_trap",
+  "scenario_title": "Multi-intent context retention trap",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f1034-8702-7aa8-99a0-b3db700f4775-1782683476356-7f0c48ca-d524-4ccb-bdb0-86ea3fa21786-mono.wav",
+  "local_audio_file": "recordings/scenario_09_multi_intent_context_retention_trap_019f1034-8702-7aa8-99a0-b3db700f4775.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:48:33.731Z",
+  "end_timestamp": "2026-06-28T21:51:13.773Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:52:09.415037+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

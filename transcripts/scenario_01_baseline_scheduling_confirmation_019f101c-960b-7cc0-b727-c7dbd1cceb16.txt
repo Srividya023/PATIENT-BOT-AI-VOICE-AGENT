@@ -1,0 +1,29 @@
+Call ID: 019f101c-960b-7cc0-b727-c7dbd1cceb16
+Scenario: scenario_01_baseline_scheduling_confirmation
+Title: Baseline scheduling with confirmation completeness
+Started: 2026-06-28T21:22:24.353Z
+Ended: 2026-06-28T21:24:55.659Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:25:00.702182+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:01] PATIENT_BOT: Hi. I wanted to schedule a new patient appointment.
+[00:04] OFFICE_BOT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. I speaking with Prava?
+[00:14] PATIENT_BOT: This is Perbash Raju.
+[00:18] OFFICE_BOT: Please provide your date of birth.
+[00:21] PATIENT_BOT: Sure. It's April eighteen nineteen ninety six.
+[00:28] OFFICE_BOT: Just to confirm, I have your name as Prakash Raju and your date of birth as April eighteenth nineteen ninety six. Is that correct? If so, could you please spell your first and last name for me?
+[00:40] PATIENT_BOT: It's actually Prabhas Raju. That's p r a b h a s, and the last name is r a j
+[00:48] OFFICE_BOT: Thank you. Could you please spell your last name as well?
+[00:52] PATIENT_BOT: Yes, it's r a j u.
+[01:00] OFFICE_BOT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[01:11] PATIENT_BOT: You can use my phone number. It's one seven seven four three three four eight nine zero nine.
+[01:21] OFFICE_BOT: I have your phone number as seven seven four three three four eight nine zero nine, and your date of birth as April eighteenth nineteen ninety six. Is that correct?
+[01:34] PATIENT_BOT: Yes. That's correct.
+[01:40] OFFICE_BOT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. you like me to connect you to our patient support team?
+[01:48] PATIENT_BOT: That would be great. Thank you. Before I go, is there anything I should bring or any
+[01:53] OFFICE_BOT: connecting you to a representative Please wait.
+[01:57] PATIENT_BOT: Thank you. I'll hold.
+[01:57] OFFICE_BOT: Hello. You've reached the pretty good AI test line. Goodbye.
+[02:02] PATIENT_BOT: Thank you. Goodbye.

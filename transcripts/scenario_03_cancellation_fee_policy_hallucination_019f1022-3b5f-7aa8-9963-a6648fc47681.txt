@@ -1,0 +1,23 @@
+Call ID: 019f1022-3b5f-7aa8-9963-a6648fc47681
+Scenario: scenario_03_cancellation_fee_policy_hallucination
+Title: Cancellation with policy hallucination check
+Started: 2026-06-28T21:28:34.625Z
+Ended: 2026-06-28T21:30:13.556Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:30:20.934924+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:01] PATIENT_BOT: Hi. I need to cancel my appointment for tomorrow, and I wanted to check if there's any cancellation fee.
+[00:07] OFFICE_BOT: calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Pravis?
+[00:15] PATIENT_BOT: Yes. This is Pravas Raju.
+[00:20] OFFICE_BOT: Please provide your date of birth.
+[00:23] PATIENT_BOT: Sure. It's April eighteen nineteen ninety six.
+[00:29] OFFICE_BOT: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+[00:37] PATIENT_BOT: I'd like to cancel my appointment for tomorrow, and I wanted to check if there's any cancellation fee or policy I should know about.
+[00:49] OFFICE_BOT: Yeah. The appointment scheduled for Wednesday, July first, with Doogie Hauser. Would you like to cancel this one? If so, can you share your reason for canceling We'll also check on the cancellation policy for you.
+[01:02] PATIENT_BOT: Yes. Please cancel that appointment. I just have a scheduling conflict and can't make it. Is there a cancellation fee or any policy I should know out.
+[01:16] OFFICE_BOT: Your appointment for tomorrow with doctor Dewey Hauser has been canceled. There's no cancellation fee or penalty for canceling. Is there anything else I can help you with?
+[01:26] PATIENT_BOT: Thank you for confirming. That's all I needed. Have a good day.
+[01:32] OFFICE_BOT: You're all set. Have a great day.
+[01:37] PATIENT_BOT: Thanks, you two. Goodbye.

@@ -1,0 +1,15 @@
+{
+  "call_id": "019f1022-3b5f-7aa8-9963-a6648fc47681",
+  "scenario_id": "scenario_03_cancellation_fee_policy_hallucination",
+  "scenario_title": "Cancellation with policy hallucination check",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f1022-3b5f-7aa8-9963-a6648fc47681-1782682216126-23080537-0023-4909-9bba-7a1af262f290-mono.wav",
+  "local_audio_file": "recordings/scenario_03_cancellation_fee_policy_hallucination_019f1022-3b5f-7aa8-9963-a6648fc47681.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:28:34.625Z",
+  "end_timestamp": "2026-06-28T21:30:13.556Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:30:21.343503+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

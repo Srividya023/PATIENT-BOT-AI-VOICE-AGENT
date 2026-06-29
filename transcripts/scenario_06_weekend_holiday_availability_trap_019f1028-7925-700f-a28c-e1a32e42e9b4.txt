@@ -1,0 +1,25 @@
+Call ID: 019f1028-7925-700f-a28c-e1a32e42e9b4
+Scenario: scenario_06_weekend_holiday_availability_trap
+Title: Weekend and holiday availability trap
+Started: 2026-06-28T21:35:23.785Z
+Ended: 2026-06-28T21:37:27.789Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:39:27.295376+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:01] PATIENT_BOT: Hi. I wanted to see if I can come in this Sunday around ten in the morning.
+[00:06] OFFICE_BOT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Pravis?
+[00:13] PATIENT_BOT: Actually, my name is Prabash Raju.
+[00:19] OFFICE_BOT: Please provide your date of birth.
+[00:21] PATIENT_BOT: Sure. It's April eighteenth nineteen ninety six.
+[00:29] OFFICE_BOT: Just to confirm, I have your name as Prabhash Raju and your date of birth as April eighteenth nineteen ninety six. Is that correct? If so, please spell your first and last name for me.
+[00:41] PATIENT_BOT: Yes. That's correct. My first name is spelled p r a b h a s, and my last name is r a j u.
+[00:54] OFFICE_BOT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[01:06] PATIENT_BOT: You can use my phone number. It's one seven seven four three three four eight nine zero nine
+[01:17] OFFICE_BOT: I have your phone number as seven seven four three three four eight nine zero nine. and your date of birth is April eighteenth nineteen ninety six. Is that correct?
+[01:26] PATIENT_BOT: Yes. Yes. That's correct.
+[01:32] OFFICE_BOT: I can't perceive further right now, but I can make sure our clinic support team follows up with you. Please hold while I document this for our team. enacting you to a representative. Please wait.
+[01:44] PATIENT_BOT: Okay. Thank you. I'll hold.
+[01:45] OFFICE_BOT: Hello. You've reached the pretty good AI test line. Goodbye.
+[01:50] PATIENT_BOT: Thank you. Goodbye.

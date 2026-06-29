@@ -1,0 +1,11 @@
+Call ID: 019f0fda-a035-7000-82e6-9bc1d7f52aac
+Scenario: scenario_07_relative_date_ambiguity_trap
+Title: Relative date ambiguity trap
+Started: 
+Ended: 
+Duration: 
+Status: ended
+Written: 2026-06-28T20:10:14.102316+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+No transcript was present in the Vapi call detail response.

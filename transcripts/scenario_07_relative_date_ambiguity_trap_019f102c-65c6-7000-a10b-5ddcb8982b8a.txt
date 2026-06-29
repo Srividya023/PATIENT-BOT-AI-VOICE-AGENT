@@ -1,0 +1,25 @@
+Call ID: 019f102c-65c6-7000-a10b-5ddcb8982b8a
+Scenario: scenario_07_relative_date_ambiguity_trap
+Title: Relative date ambiguity trap
+Started: 2026-06-28T21:39:40.648Z
+Ended: 2026-06-28T21:41:44.368Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:42:48.718428+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:01] PATIENT_BOT: Hi. I wanted to schedule something for next Friday if you have anything open.
+[00:06] OFFICE_BOT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Pravis?
+[00:13] PATIENT_BOT: Actually, it's per boss, Raju.
+[00:19] OFFICE_BOT: Please provide your date of birth.
+[00:21] PATIENT_BOT: Sure. It's April eighteenth nineteen ninety six.
+[00:29] OFFICE_BOT: Just to confirm, I have your name as Prabhat Raju, and your date of birth is April eighteenth nineteen ninety six. Is that correct? If so, could you please spell your first and last name for me?
+[00:40] PATIENT_BOT: It's Prabhas Raju. That's p r a b h a s, and the last name is r a j u.
+[00:51] OFFICE_BOT: Would you like me to look up your record using your phone number? If so, please provide the number you Please tell me the phone number you have on file with us.
+[01:01] PATIENT_BOT: Sure. It's one seven seven four three three four eight nine zero nine.
+[01:11] OFFICE_BOT: I have your phone number as seven seven four three three four eight nine zero nine and your date of birth as April eighteenth nineteen ninety six. Is that correct?
+[01:23] PATIENT_BOT: Yes. That's correct.
+[01:30] OFFICE_BOT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I connect you to our patient support team. connecting you to a representative. Please wait.
+[01:42] PATIENT_BOT: Okay. Thank you.
+[01:42] OFFICE_BOT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[01:48] PATIENT_BOT: Alright. Goodbye.

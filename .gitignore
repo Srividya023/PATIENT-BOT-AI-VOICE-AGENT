@@ -9,12 +9,4 @@ __pycache__/
 *.pyc
 call_logs/*.json
 !call_logs/.gitkeep
-transcripts/*.txt
-transcripts/*.json
-transcripts/*.jsonl
-!transcripts/.gitkeep
-recordings/*.json
-recordings/*.mp3
-recordings/*.wav
-!recordings/.gitkeep
 dev_tools/

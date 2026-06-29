@@ -1,0 +1,25 @@
+Call ID: 019f0f52-d9ea-7000-9e09-769cde0dedb6
+Scenario: scenario_02_reschedule_with_time_constraint_memory
+Title: Reschedule with patient time constraint memory
+Started: 2026-06-28T17:42:03.181Z
+Ended: 2026-06-28T17:44:07.153Z
+Duration: 
+Status: ended
+Written: 2026-06-28T17:44:19.647582+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:00] PATIENT_BOT: Hi. I have an appointment on Monday afternoon, but I need to reschedule it. I can only do after three PM this week.
+[00:09] OFFICE_BOT: Pretty good AI. Am I speaking with Travis?
+[00:13] PATIENT_BOT: No. This is Raju. I just need to reschedule my appointment to a time after three PM this week.
+[00:24] OFFICE_BOT: Please provide your date of birth.
+[00:27] PATIENT_BOT: Sure. It's April eighteenth nineteen ninety six.
+[00:34] OFFICE_BOT: Could you please spell your first and last name for me to make sure I have it correct?
+[00:39] PATIENT_BOT: Of course, my first name is p r a b h a s, and my last name is r a j u.
+[00:52] OFFICE_BOT: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again.
+[01:01] PATIENT_BOT: Yes. Please use my phone number. It's plus one seven seven four three three four eight nine zero time.
+[01:12] OFFICE_BOT: I have your phone number as seven seven four three three four. eight nine zero nine, and your date of birth is April eighteenth nineteen ninety six. Is that correct?
+[01:23] PATIENT_BOT: Yes. That's correct.
+[01:28] OFFICE_BOT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold on while I document this for our team. connecting you to a representative. Please wait.
+[01:41] PATIENT_BOT: Okay. Thank you. I'll wait.
+[01:42] OFFICE_BOT: Hello. You've reached the pretty good AI test line. Goodbye.
+[01:48] PATIENT_BOT: Alright. Thank you. Goodbye.

@@ -1,0 +1,11 @@
+Call ID: 019f0fd9-7030-7ee7-b177-2f653c58e0c3
+Scenario: scenario_02_reschedule_with_time_constraint_memory
+Title: Reschedule with patient time constraint memory
+Started: 
+Ended: 
+Duration: 
+Status: ended
+Written: 2026-06-28T20:09:06.414474+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+No transcript was present in the Vapi call detail response.

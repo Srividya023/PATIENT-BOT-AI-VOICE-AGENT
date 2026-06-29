@@ -1,0 +1,15 @@
+{
+  "call_id": "019f102f-78b5-7559-adf9-67a26bf7eade",
+  "scenario_id": "scenario_08_identity_correction_memory_trap",
+  "scenario_title": "Identity correction and stale-memory trap",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f102f-78b5-7559-adf9-67a26bf7eade-1782683152308-5ab097c8-65e5-45fc-b247-40d08705192b-mono.wav",
+  "local_audio_file": "recordings/scenario_08_identity_correction_memory_trap_019f102f-78b5-7559-adf9-67a26bf7eade.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:43:02.114Z",
+  "end_timestamp": "2026-06-28T21:45:49.736Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:48:20.555065+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

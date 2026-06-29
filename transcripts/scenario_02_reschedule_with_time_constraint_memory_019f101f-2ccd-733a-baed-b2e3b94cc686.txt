@@ -1,0 +1,31 @@
+Call ID: 019f101f-2ccd-733a-baed-b2e3b94cc686
+Scenario: scenario_02_reschedule_with_time_constraint_memory
+Title: Reschedule with patient time constraint memory
+Started: 2026-06-28T21:25:13.946Z
+Ended: 2026-06-28T21:28:08.114Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:28:21.097103+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:00] PATIENT_BOT: Hi. I have an appointment on Monday afternoon, but I need to reschedule it. I can only do after three PM this week.
+[00:08] OFFICE_BOT: Part of Pretty Good AI. Am I speaking with Pravis?
+[00:13] PATIENT_BOT: Yes. This is Prabash Raju.
+[00:18] OFFICE_BOT: Please provide your date of birth.
+[00:21] PATIENT_BOT: Sure. My date of birth is April eighteenth nineteen ninety six.
+[00:28] OFFICE_BOT: The birthday doesn't match our records, but for demo purposes, I'll accept it. Okay. How may I help you today?
+[00:34] PATIENT_BOT: I need to reschedule my appointment from Monday afternoon. I can only do after three PM this week.
+[00:46] OFFICE_BOT: You have a follow-up appointment scheduled for Thursday, July second at eight AM at Nashville two two zero Athens Way with Dugiehauser. Is this the appointment you want to reschedule?
+[00:59] PATIENT_BOT: Yes. That's the one. I need to move it to a time after three PM this week, please.
+[01:18] OFFICE_BOT: The next available afternoon slot is Wednesday, July first at four PM in Nashville with Dupi Houser. Would you like to reschedule to this time or hear other options?
+[01:30] PATIENT_BOT: Wednesday, July first at four PM works for me. Can you please confirm that my appointment has been changed to that time?
+[01:42] OFFICE_BOT: Before I reschedule, can you tell me the reason you need to move your appointment?
+[01:46] PATIENT_BOT: I have work commitments during the morning, so I can only come in after three PM this week.
+[01:54] OFFICE_BOT: You'd like to move your appointment to Wednesday, July first at four PM in Nashville with Dugiehauser because of work commitment. Is that correct? Can I go ahead and reschedule it for you? Please confirm.
+[02:07] PATIENT_BOT: Yes. That's correct. Please go ahead and reschedule my appointment to Wednesday, July first at four PM.
+[02:18] OFFICE_BOT: Your appointment has been rescheduled to Wednesday, July first at four PM with doctor Dudi Hauser. Would you like me to send you a text message with these details?
+[02:28] PATIENT_BOT: Yes. That would be helpful. Thank you for your assistance.
+[02:35] OFFICE_BOT: I sent a text with your new appointment details to your phone. Is there anything else I can help you with today?
+[02:42] PATIENT_BOT: No. That's all. Thanks again for your help. Have a good day.
+[02:47] OFFICE_BOT: You're all set. Have a great day.
+[02:50] PATIENT_BOT: Thank you. You too.

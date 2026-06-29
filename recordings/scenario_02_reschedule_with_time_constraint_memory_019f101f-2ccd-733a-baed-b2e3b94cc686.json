@@ -1,0 +1,15 @@
+{
+  "call_id": "019f101f-2ccd-733a-baed-b2e3b94cc686",
+  "scenario_id": "scenario_02_reschedule_with_time_constraint_memory",
+  "scenario_title": "Reschedule with patient time constraint memory",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f101f-2ccd-733a-baed-b2e3b94cc686-1782682090646-d49411ce-2b3e-44ff-ac8f-43e6db45bed7-mono.wav",
+  "local_audio_file": "recordings/scenario_02_reschedule_with_time_constraint_memory_019f101f-2ccd-733a-baed-b2e3b94cc686.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:25:13.946Z",
+  "end_timestamp": "2026-06-28T21:28:08.114Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:28:21.563527+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

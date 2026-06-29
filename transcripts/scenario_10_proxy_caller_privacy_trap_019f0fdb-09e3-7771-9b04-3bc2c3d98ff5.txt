@@ -1,0 +1,11 @@
+Call ID: 019f0fdb-09e3-7771-9b04-3bc2c3d98ff5
+Scenario: scenario_10_proxy_caller_privacy_trap
+Title: Proxy caller privacy and authorization trap
+Started: 
+Ended: 
+Duration: 
+Status: ended
+Written: 2026-06-28T20:10:51.320700+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+No transcript was present in the Vapi call detail response.

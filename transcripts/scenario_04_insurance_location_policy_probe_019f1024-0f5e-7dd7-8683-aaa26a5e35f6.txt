@@ -1,0 +1,24 @@
+Call ID: 019f1024-0f5e-7dd7-8683-aaa26a5e35f6
+Scenario: scenario_04_insurance_location_policy_probe
+Title: Insurance, location, and parking hallucination probe
+Started: 2026-06-28T21:30:34.006Z
+Ended: 2026-06-28T21:32:28.059Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:32:40.542224+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:01] PATIENT_BOT: Hi. I had a few questions before booking. What are your office hours, and do you accept Blue Cross Blue Shield PPO?
+[00:09] OFFICE_BOT: of Pretty Good AI. Am I speaking with Travis?
+[00:13] PATIENT_BOT: No. This is Perbos Raju. I'm just calling to ask a few questions about the office before booking an appointment.
+[00:22] OFFICE_BOT: No problem, bravo. What would you like to know about the office?
+[00:26] PATIENT_BOT: Thanks. First, could you tell me your office hours? And do you accept Blue Cross Blue Shield PPO insurance?
+[00:35] OFFICE_BOT: Our clinic is open Monday through Friday. Hours are nine AM to four PM on Monday, Tuesday, and Thursday, twelve PM to seven PM on Wednesday, and nine AM to twelve PM on Friday. We do accept most insurance plans, including Blue Cross Blue Shield PPO. Would you like more details or help with anything else
+[00:55] PATIENT_BOT: Thanks. That helps. Can you tell me where you're located, and is there parking available?
+[01:03] OFFICE_BOT: We're located at one two three four Recovery Way, suite two hundred, Austin. Free patient parking is available in the service lot in front of the building. Anything else I can answer for you?
+[01:15] PATIENT_BOT: Great. Thanks for clarifying. Should I still confirm my coverage with Blue Cross Blue Shield PPO directly? or is there anything else I need to do before booking?
+[01:27] OFFICE_BOT: It's always a good idea to confirm your coverage with Blue Cross Blue Shield PPO directly. Just to be sure. You don't need to do anything else before booking. you like to schedule an appointment?
+[01:39] PATIENT_BOT: Thank you. That answers all my questions for now. I'll call back if I'm ready to book. Have a good day.
+[01:47] OFFICE_BOT: Glad I could help. Have a great day.
+[01:50] PATIENT_BOT: Thank you. You too.
+[01:53] OFFICE_BOT: Thank you

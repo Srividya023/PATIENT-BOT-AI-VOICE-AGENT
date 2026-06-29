@@ -1,0 +1,15 @@
+{
+  "call_id": "019f06b4-32c9-722f-a067-2c9a057d0e3e",
+  "scenario_id": "scenario_01_basic_scheduling",
+  "scenario_title": "Basic new patient appointment scheduling",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f06b4-32c9-722f-a067-2c9a057d0e3e-1782524033753-1bc51c66-d7e9-40d6-bb16-96743be0009a-mono.wav",
+  "local_audio_file": "recordings\\scenario_01_basic_scheduling_019f06b4-32c9-722f-a067-2c9a057d0e3e.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-27T01:31:47.578Z",
+  "end_timestamp": "2026-06-27T01:33:51.191Z",
+  "duration": null,
+  "written_at": "2026-06-27T01:32:16.835463+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

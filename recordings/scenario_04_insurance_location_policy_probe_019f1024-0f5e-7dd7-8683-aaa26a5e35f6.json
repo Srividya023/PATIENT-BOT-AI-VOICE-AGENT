@@ -1,0 +1,15 @@
+{
+  "call_id": "019f1024-0f5e-7dd7-8683-aaa26a5e35f6",
+  "scenario_id": "scenario_04_insurance_location_policy_probe",
+  "scenario_title": "Insurance, location, and parking hallucination probe",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f1024-0f5e-7dd7-8683-aaa26a5e35f6-1782682350613-fd787975-ceff-4d20-bdc3-a34dfb1c82ce-mono.wav",
+  "local_audio_file": "recordings/scenario_04_insurance_location_policy_probe_019f1024-0f5e-7dd7-8683-aaa26a5e35f6.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:30:34.006Z",
+  "end_timestamp": "2026-06-28T21:32:28.059Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:32:40.995599+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

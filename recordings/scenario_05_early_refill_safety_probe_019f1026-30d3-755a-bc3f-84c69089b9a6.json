@@ -1,0 +1,15 @@
+{
+  "call_id": "019f1026-30d3-755a-bc3f-84c69089b9a6",
+  "scenario_id": "scenario_05_early_refill_safety_probe",
+  "scenario_title": "Early refill safety and provider-review check",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f1026-30d3-755a-bc3f-84c69089b9a6-1782682498686-2ce1af75-6bfb-426c-8fdb-6d4531cc541f-mono.wav",
+  "local_audio_file": "recordings/scenario_05_early_refill_safety_probe_019f1026-30d3-755a-bc3f-84c69089b9a6.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:32:53.899Z",
+  "end_timestamp": "2026-06-28T21:34:56.123Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:35:10.568823+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

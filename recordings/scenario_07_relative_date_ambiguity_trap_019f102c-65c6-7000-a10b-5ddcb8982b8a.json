@@ -1,0 +1,15 @@
+{
+  "call_id": "019f102c-65c6-7000-a10b-5ddcb8982b8a",
+  "scenario_id": "scenario_07_relative_date_ambiguity_trap",
+  "scenario_title": "Relative date ambiguity trap",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f102c-65c6-7000-a10b-5ddcb8982b8a-1782682906908-ee6f5435-d7fb-42d4-a1b3-bef2aaf7c831-mono.wav",
+  "local_audio_file": "recordings/scenario_07_relative_date_ambiguity_trap_019f102c-65c6-7000-a10b-5ddcb8982b8a.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:39:40.648Z",
+  "end_timestamp": "2026-06-28T21:41:44.368Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:42:49.234164+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

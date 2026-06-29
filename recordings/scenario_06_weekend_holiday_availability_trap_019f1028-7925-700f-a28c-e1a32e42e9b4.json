@@ -1,0 +1,15 @@
+{
+  "call_id": "019f1028-7925-700f-a28c-e1a32e42e9b4",
+  "scenario_id": "scenario_06_weekend_holiday_availability_trap",
+  "scenario_title": "Weekend and holiday availability trap",
+  "call_status": "ended",
+  "recording_url": "https://storage.vapi.ai/019f1028-7925-700f-a28c-e1a32e42e9b4-1782682650327-212333af-279b-4c9d-ab4a-3713b61a4f5c-mono.wav",
+  "local_audio_file": "recordings/scenario_06_weekend_holiday_availability_trap_019f1028-7925-700f-a28c-e1a32e42e9b4.wav",
+  "recording_download_error": null,
+  "public_log_url": null,
+  "start_timestamp": "2026-06-28T21:35:23.785Z",
+  "end_timestamp": "2026-06-28T21:37:27.789Z",
+  "duration": null,
+  "written_at": "2026-06-28T21:39:27.778679+00:00",
+  "note": "Audio is downloaded when Vapi provides a public recording URL. If download fails, use recording_url or the Vapi dashboard."
+}

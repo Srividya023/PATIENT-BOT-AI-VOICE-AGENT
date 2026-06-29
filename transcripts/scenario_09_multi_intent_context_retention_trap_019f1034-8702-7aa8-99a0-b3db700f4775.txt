@@ -1,0 +1,29 @@
+Call ID: 019f1034-8702-7aa8-99a0-b3db700f4775
+Scenario: scenario_09_multi_intent_context_retention_trap
+Title: Multi-intent context retention trap
+Started: 2026-06-28T21:48:33.731Z
+Ended: 2026-06-28T21:51:13.773Z
+Duration: 
+Status: ended
+Written: 2026-06-28T21:52:08.899959+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+[00:01] PATIENT_BOT: Hi. I need to reschedule my appointment, and I also wanted to ask if you take Aetna PPO.
+[00:06] OFFICE_BOT: Thanks for calling Pivot Point Orthopedics, part of PrettyGood AI. Must be healed of bravess.
+[00:14] PATIENT_BOT: Thank you. I wanted to reschedule my appointment and also check if you accept Aetna PPO insurance.
+[00:23] OFFICE_BOT: Can you please provide your date of birth?
+[00:27] PATIENT_BOT: Sure. It's April eighteenth nineteen ninety six.
+[00:35] OFFICE_BOT: Probably I see you don't have any upcoming appointments to reschedule. Would you like to book a new appointment instead? And, yes, pivot point orthopedics accepts most insurance plans, including Aetna PPO.
+[00:49] PATIENT_BOT: Thank you for confirming about the insurance. Should I still verify that with Aetna, or is it definitely covered? And, yes, I'd like to book a new appointment.
+[01:01] OFFICE_BOT: It's always a good idea to double check with Aetna to confirm your specific coverage and any requirements. For your new appointment, is this for a general office visit? A follow-up or something else.
+[01:13] PATIENT_BOT: Got it. I'll check with Aetna. This is for a general office visit.
+[01:21] OFFICE_BOT: Thanks for confirming. Do you have a preferred provider, or would you like to see the first available?
+[01:27] PATIENT_BOT: I don't have a preferred provider. So the first available works for me.
+[01:34] OFFICE_BOT: There are no open appointments for a general office visit this week. Would you like to look for openings later next week, or is there a specific date you have in mind?
+[01:43] PATIENT_BOT: Later next week would be fine. Do you have any openings then?
+[01:51] OFFICE_BOT: I have three openings on Tuesday, July seventh. There's ten AM or three PM with z Bignew Lukowski, MD, and eleven thirty AM with Kelly Noble, MD. Would you like to book one of these times?
+[02:03] PATIENT_BOT: I'll take the ten AM slot with doctor Lukowski, please.
+[02:12] OFFICE_BOT: Your appointment is set for Tuesday, July seventh at ten AM with doctor Zebig Nulukowski at Pivot Point Orthopedics.
+[02:21] PATIENT_BOT: Thank you so much for your help. I'll double check my insurance with Aetna as you suggested. Have a great day.
+[02:29] OFFICE_BOT: You're all set, promise. Remember to bring your photo ID and insurance card to your appointment. Have a great day.
+[02:37] PATIENT_BOT: Will do. Thanks again.

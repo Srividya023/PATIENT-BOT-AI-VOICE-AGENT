@@ -1,0 +1,11 @@
+Call ID: 019f0fe1-2263-7000-82fa-997790343947
+Scenario: scenario_01_baseline_scheduling_confirmation
+Title: Baseline scheduling with confirmation completeness
+Started: 
+Ended: 
+Duration: 
+Status: ended
+Written: 2026-06-28T20:17:30.796487+00:00
+Note: Speaker labels are inferred from Vapi transcript metadata and should be verified against the recording.
+
+No transcript was present in the Vapi call detail response.
