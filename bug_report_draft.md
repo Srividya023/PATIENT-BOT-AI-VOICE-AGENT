@@ -71,6 +71,3 @@ Evidence:
 [00:27] PATIENT_BOT: Sure. It's April eighteenth nineteen ninety six.
 [00:35] OFFICE_BOT: Probably I see you don't have any upcoming appointments to reschedule. Would you like to book a new appointment instead? And, yes, pivot point orthopedics accepts most insurance plans, including Aetna PPO.
 Confidence: Medium
-
-
-TODO: Add an optional LLM-assisted reviewer that summarizes transcript issues while preserving evidence links and human review before filing bugs.
