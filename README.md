@@ -1,6 +1,6 @@
-# Vapi Patient Voice Bot
+# AI Patient Voice Agent for Autonomous Voice Bot Evaluation
 
-AI Engineering Challenge project: a Python scenario runner that uses Vapi to place realistic patient calls to Pretty Good AI's office bot, then saves transcripts, recording metadata, call logs, and bug-report drafts.
+A Python scenario runner that uses Vapi to place realistic patient calls to Pretty Good AI's office bot, then saves transcripts, recording metadata, call logs, and bug-report drafts.
 
 ## Why Vapi
 
@@ -127,9 +127,3 @@ The runner creates calls with:
   }
 }
 ```
-
-## Limitations
-
-- Recording audio is not downloaded by default; metadata and URLs are saved.
-- Bug generation is heuristic-only and should be reviewed manually.
-- Vapi abstracts low-level audio events, which improves speed and reliability but gives less custom audio control than a custom telephony bridge.
